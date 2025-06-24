@@ -1,0 +1,11 @@
+To further enhance the analysis and extend its usefulness, future research can focus on: 
+
+Aspect-Based Sentiment Analysis (ABSA): To capture sentiment toward specific topics (e.g., vaccines, lockdowns, economy). 
+
+Time-Series Analysis: To visualize how public sentiment evolved week-by-week during key pandemic events. 
+
+Region-Based Sentiment Mapping: Using geotagged tweets to uncover regional mental health trends. 
+
+Multi-language Support: Incorporating multilingual tweets to capture global sentiment. 
+
+Deployment: Building a real-time sentiment dashboard for mental health monitoring using public tweets. 
